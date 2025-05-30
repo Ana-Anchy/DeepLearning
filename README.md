@@ -103,7 +103,7 @@ These questions were asked during testing to see how accurately the chatbot coul
 
 ## 🔗 **Links & References**
 - **Google Gemini API Documentation**: [https://developers.google.com/gen-ai](https://developers.google.com/gen-ai)
-- **PyPDF2 Documentation**: [https://pythonhosted.org/PyPDF2/](https://pythonhosted.org/PyPDF2/)
+  
 
 ---
 
